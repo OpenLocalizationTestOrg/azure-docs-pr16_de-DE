@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Azure weist zwei verschiedenen Bereitstellungsmodelle für das Erstellen und Arbeiten mit Ressourcen: [Ressourcenmanager und klassische](../articles/resource-manager-deployment-model.md).  Dieser Artikel behandelt das Bereitstellungsmodell Ressourcenmanager, die für die meisten neuen Bereitstellungen anstelle von Microsoft empfiehlt mithilfe der

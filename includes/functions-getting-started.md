@@ -1,0 +1,3 @@
+Azure Funktionen ist eine ereignisgesteuerten, berechnen bei Bedarf, die erweitert die vorhandene Azure-Anwendungsplattform mit Funktionen, die von Ereignissen ausgelöst in anderen Azure Services, SaaS Produkte und lokale Systeme Code implementiert wird. Ihre Applikationen skalieren basierend auf Demand Azure-Funktionen und Zahlen Sie nur für die Ressourcen, die Sie nutzen. Azure Funktionen bietet eine intuitive, Browser-basierte Benutzeroberfläche, ermöglicht es Ihnen, erstellen geplant oder in einer Vielzahl von Sprachen implementiert Codeabschnitte ausgelöst. 
+
+Dieser erste Schritte video zeigt, wie eine Funktion app erstellen, ändern Sie den Code und wie Interaktion mit dem Trigger Bindungen.

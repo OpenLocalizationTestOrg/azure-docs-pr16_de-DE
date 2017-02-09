@@ -1,0 +1,1 @@
+> [AZURE.NOTE] B2C-Mandanten Namen ist die Domäne, die Sie während der Erstellung des Mandanten eingegeben und auf vorher Verzeichnis in das Portal Azure Vorschau angezeigt werden.  Sie normalerweise endet mit dem Suffix `.onmicrosoft.com`, z. B. `contosob2c.onmicrosoft.com`.

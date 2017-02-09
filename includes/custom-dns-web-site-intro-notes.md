@@ -1,0 +1,5 @@
+In diesem Artikel wendet Azure-App-Verwaltungsdienst (Web Apps, Apps-API, Mobile-Apps, Apps Logik); Cloud Services finden Sie unter [Konfigurieren Sie einen benutzerdefinierten Domänennamen für einen Azure-Cloud-Dienst](../articles/cloud-services/cloud-services-custom-domain-name.md).
+
+> [AZURE.NOTE]  Wenn Sie app Lastenausgleich von [Azure Datenverkehr Manager](https://azure.microsoft.com/services/traffic-manager/)ist, klicken Sie auf die Auswahl oben in diesem Artikel, um bestimmte Schritte zu erhalten.
+>
+> **Benutzerdefinierte Domäne, die Namen sind nicht aktiviert kostenlos Ebene**. Sie müssen [auf eine höhere Preisgestaltung Stufe Maßstab](../articles/app-service-web/web-sites-scale.md)ändern können, wie viel Sie für Ihr Abonnement in Rechnung gestellt werden. Weitere Informationen finden Sie unter [App Preisen](https://azure.microsoft.com/pricing/details/app-service/) .

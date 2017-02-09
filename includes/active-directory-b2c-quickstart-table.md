@@ -1,0 +1,7 @@
+| Mobile & systemeigenen Apps | Web Apps und Web-APIs | Nahtlose direkt in die Protokolle |
+| ----------------------- | ------------------------------- | --------------------- |
+| [Hinzufügen von registrieren, und melden Sie sich zu einer App für iOS](active-directory-b2c-devquickstarts-ios.md) | [Addieren Sie melden Sie sich und melden Sie sich bei einer .NET MVC-App](active-directory-b2c-devquickstarts-web-dotnet.md) | [Registrieren einer Anwendung](active-directory-b2c-app-registration.md) |
+| [Fügen Sie melden Sie sich hinzu, und melden Sie sich bei einem Windows-Desktop-App](active-directory-b2c-devquickstarts-native-dotnet.md) | [Verwenden Sie bei der Anmeldung von / Richtlinie in eine .NET MVC-App anmelden](active-directory-b2c-devquickstarts-web-dotnet-susi.md) | [Mobile-Apps mit OAuth 2.0](active-directory-b2c-reference-oauth-code.md) |
+|  | [Sichern einer .NET Webs-API](active-directory-b2c-devquickstarts-api-dotnet.md) | [Web Apps mit OpenID verbinden](active-directory-b2c-reference-oidc.md) |
+|  | [Rufen Sie eine Web-API aus einer .NET Web App](active-directory-b2c-devquickstarts-web-api-dotnet.md) |  |
+| | [Addieren Sie melden Sie sich und melden Sie sich bei einer ASP.NET Core-app](https://github.com/azure-samples/active-directory-dotnet-webapp-openidconnect-aspnetcore-b2c) | |

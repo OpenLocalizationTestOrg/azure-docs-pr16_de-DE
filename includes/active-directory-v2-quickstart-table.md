@@ -1,0 +1,9 @@
+| Mobile & systemeigenen Apps | Web Apps und Web-APIs | Nahtlose direkt in die Protokolle |
+| ----------------------- | ------------------------------- | --------------------- |
+| [Hinzufügen von Anmeldung zu einer App für iOS](active-directory-v2-devquickstarts-ios.md) | [Hinzufügen von Anmeldung zu einer AngularJS gesicherte KENNWORTAUTHENTIFIZIERUNG (NodeJS)](active-directory-v2-devquickstarts-angular-node.md) | [Registrieren einer Anwendung](active-directory-v2-app-registration.md) |
+| [Anmeldung bei einem Android-App hinzufügen](active-directory-v2-devquickstarts-android.md) | [Hinzufügen von Anmeldung zu einer AngularJS gesicherte KENNWORTAUTHENTIFIZIERUNG (.NET)](active-directory-v2-devquickstarts-angular-dotnet.md) | [Mobile-Apps mit OAuth 2.0](active-directory-v2-protocols-oauth-code.md) |
+| [Hinzufügen von-In zu einem Windows-Desktop-App](active-directory-v2-devquickstarts-wpf.md) | [Anmelden bei einer .NET MVC App hinzufügen](active-directory-v2-devquickstarts-dotnet-web.md) | [Web Apps mit OpenID verbinden](active-directory-v2-protocols-oidc.md) |
+| [Rufen Sie eine app-APIs Rest von Office 365](https://msdn.microsoft.com/office/office365/howto/authenticate-Office-365-APIs-using-v2) | [Melden Sie sich In einem Knoten JS Web App hinzufügen](active-directory-v2-devquickstarts-node-web.md) | [Herstellen einer einzelnen Seite Apps mit OpenID mit](active-directory-v2-protocols-implicit.md)
+|  | [Sichern einer .NET Webs-API](active-directory-v2-devquickstarts-dotnet-api.md) | [Datenfluss Daemon-apps mit den Clientanmeldeinformationen](active-directory-v2-protocols-oauth-client-creds.md) |
+|  |  [Sichern einer NodeJS Web-API](active-directory-v2-devquickstarts-node-api.md) |
+|  | [Rufen Sie Office 365 REST-APIs aus dem web](https://msdn.microsoft.com/office/office365/howto/authenticate-Office-365-APIs-using-v2) |

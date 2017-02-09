@@ -1,0 +1,1 @@
+Informationen zu anderen Bindungen und Trigger für Azure-Funktionen finden Sie unter [Trigger Azure-Funktionen und Bindungen Entwicklerreferenz](../articles/azure-functions/functions-triggers-bindings.md)

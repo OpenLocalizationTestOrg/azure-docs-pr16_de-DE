@@ -1,0 +1,6 @@
+- [Konfigurieren von Access-Regeln](../articles/active-directory/active-directory-conditional-access-azuread-connected-apps.md)
+- [Mit Anforderung der Benutzer-Zuordnung](../articles/active-directory/active-directory-applications-guiding-developers-requiring-user-assignment.md)
+- [Zuweisen von Benutzern zur Anwendung](../articles/active-directory/active-directory-applications-guiding-developers-assigning-users.md)
+- [Zuweisen von Gruppen zur Anwendung](../articles/active-directory/active-directory-applications-guiding-developers-assigning-groups.md)
+- [Integrieren von Applications in Azure Active Directory](../articles/active-directory/active-directory-integrating-applications.md)
+- [Artikel Index für Anwendungsverwaltung in Azure-Active Directory](../articles/active-directory/active-directory-apps-index.md)

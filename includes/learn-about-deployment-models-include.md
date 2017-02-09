@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Bevor Sie mit Azure Ressourcen arbeiten, machen Sie sich mit der Bereitstellungsmodelle: [Ressourcenmanager, und der Standardansicht](../articles/resource-manager-deployment-model.md).

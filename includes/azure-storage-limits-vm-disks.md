@@ -1,0 +1,7 @@
+Ein Azure-virtuellen Computern unterstützt eine Anzahl von Daten Datenträger anfügen. Zur Optimierung der Systemleistung sollten Sie die Anzahl der hoher Auslastung mit virtuellen Computers zur Vermeidung von möglichen begrenzungsebene verbundenen Datenträger begrenzen. Wenn Sie alle Datenträger nicht sehr gleichzeitig genutzt werden, kann das Speicherkonto eine größere Zahl Datenträger unterstützen.
+
+- **Für Speicherkonten standard:** Einen Höchstwert für insgesamt die Anforderung Satz von 20.000 IOPS über ein standard Speicherkonto verfügt. Die Summe IOPS über alle virtuellen Computern Datenträger in einem Speicherkonto standard sollte nicht diese Beschränkung überschreiten.
+
+    Sie können die Anzahl der hoher Auslastung unterstützt anhand eines einzelnen Standard-Speicher-Kontos basierend auf der Anforderung Zins Grenzwert Festplatten ungefähr berechnen. Für ein Beispiel für eine einfache Ebene-virtuellen Computer, die maximale Anzahl von hoher Auslastung Datenträger zu 66 (20.000/300 IOPS pro Datenträger), und klicken Sie für einen Standard in virtuellen Computer ist, ist es ungefähr 40 (20.000/500 IOPS pro Datenträger), wie in der folgenden Tabelle dargestellt. 
+ 
+- **Für Speicher-Konten Premium:** Ein Premium-Speicher-Konto verfügt über eine maximale total Durchsatzrate der 50 Gbps. Der Gesamtdurchsatz über alle Datenträger virtueller Computer sollte nicht diese Beschränkung überschreiten.
