@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> Die Datei publishsettings enthält Ihre Anmeldeinformationen (unverschlüsselter), die zur Verwaltung von Azure-Abonnements und Dienstleistungen verwendet werden. Die Erhöhung der Sicherheit für diese Datei ist vorübergehend außerhalb der Quellverzeichnisse (beispielsweise im Ordner Libraries\Documents) speichern und löschen Sie ihn nach Abschluss des Importvorgangs hat. Ein bösartiger Benutzer, der Zugriff auf die Datei publishsettings Schaden kann bearbeiten, erstellen und löschen Ihre Azure-Dienste.

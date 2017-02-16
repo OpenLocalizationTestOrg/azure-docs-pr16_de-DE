@@ -1,0 +1,3 @@
+Festlegen eines benutzerdefinierten Domänennamens steht nur aus, für den **freigegeben**, **Standard-** und **Standard** Modi für Web Apps. Vor dem Wechsel einer Web-app aus den Modus **Free** an **freigegeben**, **grundlegende** oder **Standardmodus** , müssen Sie zuerst direkte Feststelltaste Ausgaben für Ihr Abonnement Web Apps entfernen. 
+
+Weitere Informationen zu den App-Dienst Plan Modi, einschließlich so ändern Sie den Modus Ihrer Website finden Sie unter [So skalieren Web apps](../articles/app-service-web/web-sites-scale.md).

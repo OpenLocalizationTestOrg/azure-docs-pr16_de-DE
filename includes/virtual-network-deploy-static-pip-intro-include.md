@@ -1,0 +1,4 @@
+Sie können Erstellen von virtuellen Computern (virtuellen Computern) in Azure und diese mit dem öffentlichen Internet verfügbar machen, indem Sie mit einer öffentlichen IP-Adresse. Standardmäßig öffentlichen IP-Adressen dynamische sind und die Adresse zugeordnet ist, können möglicherweise ändern, wenn Sie der virtuellen Computer gelöscht wird. Damit sichergestellt ist, dass der virtuellen Computer immer die gleiche öffentliche IP-Adresse verwendet, müssen Sie eine statische öffentliche IP-Adresse zu erstellen. 
+
+Bevor Sie statische öffentliche IP-Adressen in virtuellen Computern implementieren können, ist es erforderlich zu verstehen, wenn Sie statische öffentliche IP-Adressen und deren Verwendung verwenden können. Lesen Sie weitere Informationen dazu die IP-Adressen in Azure die [IP-Adressen (Übersicht)](../articles/virtual-network/virtual-network-ip-addresses-overview-arm.md) .
+

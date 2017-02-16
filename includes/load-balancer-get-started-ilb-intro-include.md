@@ -1,0 +1,3 @@
+Ein Azure internen Lastenausgleich (ILB) bietet Netzwerklastenausgleich zwischen virtuellen Computern, die sich in einen Clouddienst oder ein virtuelles Netzwerk mit einem Landes-/ Bereich befinden.
+
+Informationen zur Verwendung und Konfiguration von virtuellen Netzwerken mit einem Landes-/ Bereich finden Sie unter [Regionalen virtuelle Netzwerke](../articles/virtual-network/virtual-networks-migrate-to-regional-vnet.md). ILB können keine vorhandenen virtuelle Netzwerke, die für eine Gruppe für die Zugehörigkeit konfiguriert wurden.

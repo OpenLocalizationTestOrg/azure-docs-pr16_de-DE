@@ -1,0 +1,13 @@
+
+
+Bilder werden in Azure verwendet, um einen neuen virtuellen Computer mit einem Betriebssystem bereitzustellen. Möglicherweise müssen Sie ein Bild auch einen oder mehrere Daten Datenträger. Bilder sind aus verschiedenen Quellen verfügbar:
+
+-   Azure bietet Bilder auf der [Marketplace](https://azure.microsoft.com/gallery/virtual-machines/). Es gibt aktuelle Versionen von Windows Server sowie Verteilung des Betriebssystems Linux. Einige Bilder enthalten auch Anwendungen, wie etwa SQL Server. MSDN-Vorteile und MSDN nutzungsbasierte Abonnenten haben Zugriff auf Weitere Bilder.
+-   Die open Source-Community bietet Bilder durch [Virtueller Computer im Lager](http://vmdepot.msopentech.com/List/Index).
+-   Sie können auch speichern und verwenden eigene Bilder in Azure, indem Sie erfassen eines vorhandenen Azure-virtuellen Computern für den Einsatz als ein Bild oder ein Bild hochladen.
+
+## <a name="about-vm-images-and-os-images"></a>Informationen zu virtuellen Computer Bilder und OS Bilder
+
+Zwei Arten von Bildern in Azure verwendet werden können: *virtueller Computer* und *OS Bild*. Ein virtueller Computer Bild enthält ein Betriebssystem und alle Datenträger, die mit einem virtuellen Computer angefügt werden, wenn das Bild erstellt wurde. Ein Bild virtueller Computer ist das neuere Typ des Bilds. Bevor virtueller Computer Bilder eingeführt wurden, konnte ein Bild in Azure nur GRG Betriebssystem und keine weiteren Datenträger haben. Ein Bild von virtuellen Computer, die nur eine GRG Betriebssystem enthält entspricht im Grunde dem ursprünglichen Typ des Bilds, das Bild OS.
+
+Sie können eigene Bilder auf der Grundlage eines virtuellen Computers in Azure oder einen virtuellen Computer mit an anderer Stelle erstellen, die Sie kopieren und hochladen. Wenn Sie ein Bild zu verwenden, um mehrere virtuellen Computern erstellen möchten, müssen Sie es für den Einsatz als ein Bild, indem Sie es verallgemeinern vorzubereiten. Um ein Bild von Windows Server erstellen möchten, führen Sie den Befehl Sysprep auf dem Server, um ihn generalize, bevor Sie die VHD-Datei hochladen. Ausführliche Informationen zu Sysprep finden Sie unter [wie Sysprep verwenden: ein Einführung](http://go.microsoft.com/fwlink/p/?LinkId=392030) und [Sysprep-Unterstützung für Serverrollen](https://msdn.microsoft.com/windows/hardware/commercialize/manufacture/desktop/sysprep-support-for-server-roles). Sichern Sie den virtuellen Computer aus, bevor Sie Sysprep starten. Erstellen ein Bild Linux hängt von Verteilung zurück. Normalerweise müssen Sie eine Reihe von Befehlen ausführen, die für die Verteilung spezifisch sind, und führen Sie den Azure-Linux Agent.

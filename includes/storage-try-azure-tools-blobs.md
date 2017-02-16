@@ -1,0 +1,3 @@
+> [AZURE.TIP] **Verwalten der Azure BLOB-Speicher Ressourcen mit Microsoft Azure-Speicher-Explorer**
+> 
+> Microsoft Azure-Speicher-Explorer [Azure BLOB-Speicher Ressourcen verwalten](../articles/vs-azure-tools-storage-explorer-blobs.md), einschließlich der Möglichkeit zum Erstellen visuell, Sie können BLOB-lesen, aktualisieren und löschen Containern und Blobs, sowie das Verwalten des Zugriffs auf Ihre Blobs Container und Blobs.

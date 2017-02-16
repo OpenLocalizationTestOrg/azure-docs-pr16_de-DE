@@ -1,0 +1,3 @@
+Erstellen und Verwalten eines cloudbasierten High Performance computing (HPC) Clusters durch die Nutzung der Dienste für [Microsoft HPC Pack](https://technet.microsoft.com/library/jj899572.aspx) und Azure berechnen und Infrastruktur. HPC Pack ist Microsoft kostenlosen HPC Lösung auf Basis einer Microsoft Azure und Windows Server-Technologien und einer Breite von HPC Auslastung unterstützt.
+
+Weitere Optionen auf umfangreiche Parallel, Stapel und HPC Auslastung Azure ausgeführt werden finden Sie unter [Technische Ressourcen für Stapel und High Performance computing](../articles/batch/big-compute-resources.md).

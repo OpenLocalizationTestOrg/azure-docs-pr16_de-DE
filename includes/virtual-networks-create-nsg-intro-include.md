@@ -1,0 +1,3 @@
+Sie können eine NSG Steuerelement Datenverkehr an eine oder mehrere virtuellen Computern (virtuelle Computer), Rolleninstanzen, Netzwerkadapter (NICs) oder Subnetze in Ihrem Netzwerk virtuelle verwenden. Eine NSG enthält Access Steuerelement Regeln, die zulassen oder Datenverkehr basierend auf den Datenverkehr Richtung, Protokoll, Quellbilds und Port, und Zieladresse und Port verweigern. Die Regeln einer NSG können jederzeit geändert werden, und Änderungen auf alle zugeordneten Instanzen angewendet werden.
+
+Weitere Informationen zu NSGs finden Sie auf [Was ist eine NSG](../articles/virtual-network/virtual-networks-nsg.md).

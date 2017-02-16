@@ -1,0 +1,2 @@
+Nach dem Erstellen eine oder mehrere Netzwerk-Sicherheitsgruppen (NSGs), Sie müssen zum Abrufen von Informationen über Ihre NSGs, können hinzufügen und Entfernen von Regeln, geltendem Recht bearbeiten, zuordnen oder Zuordnung NSGs und NSGs löschen. In diesem Artikel erfahren Sie, wie Sie diese Aufgaben ausführen. Bevor Sie NSGs verwalten können, ist es wichtig zu wissen, [wie NSGs funktionieren](..\articles\virtual-network\virtual-networks-nsg.md). 
+

@@ -1,0 +1,7 @@
+## <a name="overview"></a>(Übersicht)
+
+Azure Dateispeicher ist ein Dienst, der in der Cloud, mit dem standard- [Protokoll (SMB = Server Message Block)](https://msdn.microsoft.com/library/windows/desktop/aa365233.aspx)Dateifreigaben bietet. Sowohl die SMB 2.1 SMB 3.0 werden unterstützt. Mit Azure Dateispeicher können Sie ältere Applikationen migrieren, die auf Dateifreigaben, um Azure schnell und ohne teure schreibt aufsetzen. In Azure-virtuellen Computern oder Cloud Services oder aus lokalen Clients ausgeführt Applications können eine Dateifreigabe in der Cloud, bereitstellen, ebenso wie eine desktop-Anwendung stellt eine typische SMB-Freigabe bereit. Eine beliebige Anzahl der Anwendungskomponenten kann dann bereitstellen und gleichzeitig Zugriff auf die Dateifreigabe-Speicher.
+
+Da eine Dateifreigabe-Speicher ein standard SMB Dateifreigabe ist, können in Azure ausgeführt Applications Daten in die Freigabe über das Dateisystem I/O APIs zugreifen. Entwickler können daher ihrer vorhandenen Code und Fähigkeiten zu vorhandene Applikationen migrieren nutzen. IT-Experten können PowerShell-Cmdlets zum Erstellen, bereitstellen und Verwalten von Speicher Dateifreigaben als Teil der Verwaltung von Azure Applications verwenden.
+
+Sie können mithilfe von [Azure-Portal](https://portal.azure.com), den Azure-Speicher PowerShell-Cmdlets, Azure-Speicher-Client-Bibliotheken oder die Azure Storage REST-API Azure Dateifreigaben erstellen. Darüber hinaus, da diese Dateifreigaben SMB-Freigaben sind, können Sie über das Standard- und vertrauten Dateisystem APIs zugreifen.

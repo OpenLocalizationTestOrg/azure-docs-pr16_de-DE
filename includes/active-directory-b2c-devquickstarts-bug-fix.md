@@ -1,0 +1,2 @@
+> [AZURE.IMPORTANT]
+    Wenn Sie den Code in diesem Lernprogramm zu einem beliebigen Zeitpunkt verwendeten haben vor dieser Hinweis hinzugefügt wurde, wenden Sie sich bitte erneut herunterladen Sie den Code jetzt.  Eine Fehlerkorrektur hinzugefügt wurde die `PolicyAuthHelpers` Ordner, der eine Ausnahme Out-of-Memory-Adressen.  Weitere Informationen finden Sie [diese Anforderung Abruf auf GitHub](https://github.com/AzureADQuickStarts/B2C-WebApp-OpenIdConnect-DotNet/pull/4)ist. Wir entschuldigen uns für Ihr Verständnis.
